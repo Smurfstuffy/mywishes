@@ -4,7 +4,7 @@
 @layer base {
   :root {
     /* Light Theme */
-    --background: #ffffff;
+    --background: #e4e4e7;
     --foreground: #000000;
     --primary: #0d6efd;
     --primary-text: #ffffff;
